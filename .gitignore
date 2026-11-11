@@ -1,0 +1,7 @@
+anaconda_projects/
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
